@@ -1,11 +1,2 @@
-/cfg/config.cfg
-/cfg/config_arena.cfg
-/cfg/motd_entries.txt
-/cfg/replay.cfg
-/cfg/replay_ftp.cfg
-/cfg/replay_local_http.cfg
-/cfg/server_blacklist.txt
-/cfg/settings.scr
-/cfg/sixense_bindings.cfg
-/cfg/user.scr
 /cfg/private.cfg
+/sound
